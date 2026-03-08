@@ -34,7 +34,11 @@ I'm passionate about **blockchain & fintech** (XRP/XRPL, Solana, Base), **AI-pow
 
 [![VoiceGuard](./screenshots/voiceguard.png)](https://github.com/m1lestones/voiceguard)
 
-An AI-powered platform designed to detect synthetically cloned voices, addressing one of the fastest-growing threats in digital fraud and identity impersonation.
+**Problem:** Scammers are using AI voice cloning technology to impersonate family members and phish money from vulnerable individuals. These synthetic voices can sound nearly identical to real people — even replicating emotional cues like crying — making it nearly impossible for victims to tell the difference.
+
+**Solution:** VoiceGuard combines real-time voice analysis, biometric voice enrollment, and security-question verification to detect AI-cloned voices and prevent fraud before money is lost. Built with a web app + Expo mobile client and an Express backend.
+
+**Tech:** React, Vite, Express, Expo (React Native), Node.js
 
 **🔗 Repo:** [github.com/m1lestones/voiceguard](https://github.com/m1lestones/voiceguard)
 
@@ -44,9 +48,14 @@ An AI-powered platform designed to detect synthetically cloned voices, addressin
 
 [![Pursuit 2.1](./screenshots/pursuit-2-1.png)](https://github.com/G3RRYGL3Z/Pursuit-2.1)
 
-A team-built project developed during the Pursuit L2 curriculum, emphasizing collaborative development practices, Git workflows, and agile-style coordination across multiple contributors.
+**Problem:** Pursuit fellows rely on a student dashboard to track weekly curriculum activities, but the existing interface lacks prioritization cues, progress visibility, and quality-of-life features — making it easy to miss assignments and lose track of daily goals.
+
+**Solution:** A PRD-driven replica of the Pursuit dashboard with priority tags (Required/Recommended/Optional), daily + weekly progress bars, a "next best action" button, lunch timer with notifications, missed-assignment alerts, day/night theme toggle, and swipe-based day navigation.
+
+**Tech:** HTML5, CSS3, JavaScript, GitHub Pages, GitHub Actions (CI/CD)
 
 **🔗 Repo:** [github.com/G3RRYGL3Z/Pursuit-2.1](https://github.com/G3RRYGL3Z/Pursuit-2.1)
+**🌐 Live:** [g3rrygl3z.github.io/Pursuit-2.1](https://g3rrygl3z.github.io/Pursuit-2.1/)
 
 ---
 
@@ -54,7 +63,11 @@ A team-built project developed during the Pursuit L2 curriculum, emphasizing col
 
 [![Strava Clone](./screenshots/strava-clone.png)](https://github.com/codingtemple17/strava_clone)
 
-A full-stack fitness tracking application allowing users to log workouts, track activity history, and view performance stats with clean UI/UX and robust backend data modeling.
+**Problem:** Fitness enthusiasts need a centralized way to log workouts, track activity history, and visualize performance over time — but existing platforms can be bloated or inaccessible for users who just want a clean, focused tracker.
+
+**Solution:** A full-stack Strava-inspired fitness tracking app that lets users log activities, view workout history with maps and photo feeds, and track performance stats through an intuitive UI built with modern frontend tooling and a robust data layer.
+
+**Tech:** React, Vite, Tailwind CSS, JavaScript, PostCSS
 
 **🔗 Repo:** [github.com/codingtemple17/strava_clone](https://github.com/codingtemple17/strava_clone)
 
@@ -64,9 +77,14 @@ A full-stack fitness tracking application allowing users to log workouts, track 
 
 [![Bobby Approved](./screenshots/bobby-approved.png)](https://github.com/LubaKaper/bobby-approved-clone)
 
-A collaborative clone of the Bobby Approved ingredient-scanning app helping users identify harmful additives in food products, built with API integration and team Git workflows.
+**Problem:** Consumers struggle to identify harmful additives hidden in food product ingredient lists. Reading labels is time-consuming, and most people don't know which ingredients to avoid — especially those with allergies, dietary restrictions, or health-conscious goals.
+
+**Solution:** A mobile-first food product scanner that lets users scan barcodes, flag 33+ common processed additives (corn syrup, artificial colors, seed oils, etc.), check products against personal dietary profiles (allergies, vegan, keto), and get AI-powered ingredient explanations via OpenAI.
+
+**Tech:** Next.js 16, React 19, TypeScript, Tailwind CSS, OpenAI API (gpt-4o-mini), html5-qrcode
 
 **🔗 Repo:** [github.com/LubaKaper/bobby-approved-clone](https://github.com/LubaKaper/bobby-approved-clone)
+**🌐 Live:** [bobby-approved-clone.vercel.app](https://bobby-approved-clone.vercel.app)
 
 ---
 
@@ -74,9 +92,14 @@ A collaborative clone of the Bobby Approved ingredient-scanning app helping user
 
 [![StorageScout](./screenshots/storagescout.png)](https://github.com/ismaelcaraballo-afk/storagescout)
 
-A marketplace-style app for discovering and comparing storage unit rentals, with location-based search, filtering, and user-facing listing UIs.
+**Problem:** The U.S. has 2,300 GW of clean energy projects stuck in interconnection queues, and battery storage is growing exponentially — yet emissions are barely moving. Decision-makers lack accessible tools to explore where the next battery should be built and how storage deployment impacts emissions at the state level.
+
+**Solution:** An interactive data dashboard that visualizes U.S. battery storage capacity, carbon intensity, and emissions trends. Features a real-time solar + carbon tracker, physics-informed carbon modeling, and a "what-if" simulator for storage deployment scenarios — powered by live data from WattTime, Electricity Maps, and Open-Meteo APIs.
+
+**Tech:** React 19, TypeScript, Vite, Tailwind CSS, Express.js, WattTime API, Electricity Maps API, Vitest
 
 **🔗 Repo:** [github.com/ismaelcaraballo-afk/storagescout](https://github.com/ismaelcaraballo-afk/storagescout)
+**🌐 Live:** [ismaelcaraballo-afk.github.io/storagescout](https://ismaelcaraballo-afk.github.io/storagescout/)
 
 ---
 
@@ -84,7 +107,11 @@ A marketplace-style app for discovering and comparing storage unit rentals, with
 
 [![Triage App](./screenshots/triage-app.png)](https://github.com/m1lestones/Triage-App)
 
-A medical triage intake application that streamlines patient prioritization in emergency settings using form-driven data collection and urgency scoring logic.
+**Problem:** Support teams waste time manually reading and triaging customer messages. Without automated classification, high-urgency requests get buried, response times suffer, and routing decisions are inconsistent.
+
+**Solution:** A lightweight AI-powered customer inbox triage tool that classifies support messages using Groq AI (Llama 3.3 70B), applies rule-based urgency scoring, and suggests next steps from predefined templates — giving teams an automated first pass at prioritization and routing.
+
+**Tech:** React, Vite, Tailwind CSS, Groq API (Llama 3.3 70B), Node.js
 
 **🔗 Repo:** [github.com/m1lestones/Triage-App](https://github.com/m1lestones/Triage-App)
 
