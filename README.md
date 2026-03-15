@@ -65,6 +65,7 @@ I'm passionate about **blockchain & fintech** (XRP/XRPL, Solana, Base), **AI-pow
 **Tech:** React, Vite, Tailwind CSS, JavaScript, PostCSS
 
 **🔗 Repo:** [github.com/codingtemple17/strava_clone](https://github.com/codingtemple17/strava_clone)
+**🌐 Live:**  https://stravaclone-rust.vercel.app/
 
 
 ---
