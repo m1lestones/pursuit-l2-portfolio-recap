@@ -117,6 +117,29 @@ I'm passionate about **blockchain & fintech** (XRP/XRPL, Solana, Base), **AI-pow
 
 ---
 
+### 7. 🍽️ PlateIQ — AI-Powered Food Wellness Dashboard
+
+[![PlateIQ](./screenshots/plateiq.png)](https://github.com/m1lestones/Plate-IQ)
+
+**Problem:** 55% of American calories come from ultra-processed foods, yet most nutrition apps only count calories. People lack an easy way to understand food *quality* — what they're actually eating and how it affects their health — without manual logging or complex databases.
+
+**Solution:** An AI-powered food wellness dashboard that lets users snap or upload a meal photo to get instant nutrition breakdowns, NOVA processing classification (green → red scale showing how processed food is), and personalized wellness insights. Built with Claude Vision API for food identification and USDA FoodData Central for detailed nutrition data.
+
+**Features:**
+- 📸 Photo scanning via camera or upload
+- 📊 Interactive nutrition dashboard (macros, micros, ingredient breakdown)
+- 🎨 NOVA processing gauge (color-coded freshness scale)
+- ⚖️ Real-time portion controls (S/M/L or custom grams)
+- 🤖 AI wellness insights & food swap suggestions
+- 🔌 Offline/demo mode with pre-cached meals
+
+**Tech:** React 19, TypeScript, Vite, Tailwind CSS, Recharts, Claude Vision API, USDA FoodData Central API, CDC PLACES API
+
+**🔗 Repo:** [github.com/m1lestones/Plate-IQ](https://github.com/m1lestones/Plate-IQ)
+**🌐 Live:** [plate-iq.vercel.app](https://plate-iq.vercel.app/)
+
+---
+
 ## 🔗 Connect With Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-m1lestones-181717?style=for-the-badge&logo=github)](https://github.com/m1lestones)
